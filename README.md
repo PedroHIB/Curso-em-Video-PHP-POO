@@ -1,8 +1,8 @@
 # Curso em Video PHP-POO
 
 <p>Curso completo de Programação Orientada a Objetos (POO) com a linguagem PHP. Aborda os principais conceitos como Classes, Objetos, instanciamento, abstração, encapsulamento, herança, polimorfismo e muito mais. Criado pelo professor Gustavo Guanabara para o Curso em Vídeo, explica todos os conceitos de POO de uma maneira simples, objetiva e divertida.</p>
-
-<ul>Aula 01 - Como tudo começou.
+<ul>
+    <li>Aula 01 - Como tudo começou.</li>
     <li>Aula 02 - Instalações das ferramentas</li>
     <li>Aula 03 - Visibilidade de Atributos e Metodos</li>
     <li>Aula 04 - Metodos construtor, getter e setter</li>
