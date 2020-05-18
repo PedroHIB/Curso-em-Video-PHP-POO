@@ -114,3 +114,5 @@ class lutador {
         $this->empates = $empates;
     }
 }
+
+//teste
