@@ -5,7 +5,7 @@
     <title>Ultra Emoji Combat</title>
   </head>
   <body>
-  <pre>
+    <pre>
 <?php
 
     require_once 'lutador.php';

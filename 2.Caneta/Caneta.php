@@ -14,11 +14,11 @@ class Caneta {
     }
   }
   function tampar() {
-    $this->tampada = true;
+    $this->tampada = true;  //mostra 1
   }
   function destampar() {
-    $this->tampada = false;
+    $this->tampada = false; //mostra vazio
   }
 }
 
- ?>
+?>

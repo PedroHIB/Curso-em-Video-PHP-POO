@@ -1,5 +1,5 @@
 <?php
-class Caneta {
+class caneta {
   public $modelo;
   public $cor;
   private $ponta;
@@ -10,7 +10,7 @@ class Caneta {
     if ($this->tampada == true) {
       echo "<p>Erro! Não posso rabiscar.</p>";
     } else {
-        echo "<p>Estou Rabiscando...</p>";
+      echo "<p>Estou Rabiscando...</p>";
     }
   }
   public function tampar() {
@@ -21,4 +21,4 @@ class Caneta {
   }
 }
 
- ?>
+?>
