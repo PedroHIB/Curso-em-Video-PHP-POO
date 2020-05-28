@@ -15,6 +15,6 @@
     <li>Aula 11 - Herança Pt.2</li>
     <li>Aula 12 - Polimorfismo Pt1</li>
     <li>Aula 13 - Polimorfismo Pt2</li>
-    <li>Aula 14 - Projeto Final</li>
-    <li>Aula 15 - Projeto Final</li>
+    <li>Aula 14 - Projeto Final Pt1</li>
+    <li>Aula 15 - Projeto Final Pt2</li>
 </ul>
